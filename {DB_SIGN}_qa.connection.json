@@ -6,5 +6,5 @@
   'Encrypt': false,
   'Trust': true,
   'MARS': false,
-  'IntegratedSecurity': true, // When this is 'true' [User] and [Password] property will be ignored.
+  'IntegratedSecurity': true // When this is 'true' [User] and [Password] property will be ignored.
 }
