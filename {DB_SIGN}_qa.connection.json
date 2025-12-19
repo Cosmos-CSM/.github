@@ -1,0 +1,10 @@
+{
+  'Host': '127.0.0.1',
+  'Name': '{DB_NAME}',
+  'User': '{DB_LOGIN_NAME}',
+  'Password': '{DB_PWD_NAME}',
+  'Encrypt': false,
+  'Trust': true,
+  'MARS': false,
+  'IntegratedSecurity': true, // When this is 'true' [User] and [Password] property will be ignored.
+}
