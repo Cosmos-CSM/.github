@@ -1,4 +1,4 @@
-name: Publish [${{ inputs.project_name }}]
+name: Publish [Project Name]
 
 on:
   # 1) Manual trigger in the Actions tab
@@ -9,7 +9,7 @@ on:
     branches:
       - main
     paths:
-      - '${{ inputs.project_path }}/**'
+      - 'PROJECT_PATH/**'
 
 permissions:
   contents: read
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      CS_PROJECT_PATH: '${{ inputs.project_path }}/CSM Server Core.csproj'
+      CS_PROJECT_PATH: 'PROJECT_PATH/CSM Server Core.csproj'
 
     steps:
       - name: 🔄 Checkout repo
@@ -40,7 +40,7 @@ jobs:
       - name: ⚙️ Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '${{ inputs.dotnet_version }}'
+          dotnet-version: 'X.X.X'
 
       - name: 🔧 Restore & Build
         run: |
