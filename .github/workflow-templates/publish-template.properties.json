@@ -3,7 +3,7 @@
   "description": "Publishes a C# package project using.",
   "iconName": "dotnet",
   "filePatterns": [".*"]
-  "categories": ["C#", "Publish"],
+  "categories": ["Deployment"],
   "inputs": [
     {
       "name": "project_path",
