@@ -1,5 +1,5 @@
 {
-  "name": "C# Package CI",
+  "name": "CSM Package CI",
   "description": "Publishes a C# package project using.",
   "iconName": "dotnet",
   "filePatterns": [
