@@ -2,6 +2,7 @@
   "name": "C# Package CI",
   "description": "Publishes a C# package project using.",
   "iconName": "dotnet",
+  "filePatterns": [".*"]
   "categories": ["C#", "Publish"],
   "inputs": [
     {
