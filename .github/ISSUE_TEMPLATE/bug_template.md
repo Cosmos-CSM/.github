@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-> Details
+## Details
 
 **Solution name**: <project_name>
 
@@ -15,4 +15,4 @@ assignees: ''
 
 **Version impact**: <project_version>
 
-> Replication Steps
+## Replication Steps

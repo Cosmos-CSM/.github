@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-> Details
+## Details
 
 **Solution name**: <project_name>
 
 **Solution impact**: <view/server/database>
 
-> Description
+## Description

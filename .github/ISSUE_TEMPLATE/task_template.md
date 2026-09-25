@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-> Details
+## Details
 
 **Category**: <project_name>
 
-> Description
+## Description
