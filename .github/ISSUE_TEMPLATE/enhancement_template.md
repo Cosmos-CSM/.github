@@ -1,10 +1,16 @@
 ---
 name: enhancement_template
 about: Template for an enhancement request issue.
-title: "[Feature] Feature name"
+title: "<enhancement_title>"
 labels: enhancement
 assignees: ''
 
 ---
 
-> Feature description <
+> Details
+
+**Solution name**: <project_name>
+
+**Solution impact**: <view/server/database>
+
+> Description
