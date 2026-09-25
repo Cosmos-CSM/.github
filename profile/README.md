@@ -41,6 +41,8 @@ We already have different issues templates to handle request easier, if you need
 
 - **improvement_template**: issue template to analyze and include and improvement in already existing features.
 
+- **task_template**: issue template for a task request issue, commonly used to request for documentation, organization, or other project related activities.
+
 ## Organization contacts
 
 For any question related to permission requests or improvement comments please contact following people.
