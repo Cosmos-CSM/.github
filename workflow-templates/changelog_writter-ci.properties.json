@@ -1,0 +1,8 @@
+{
+    "name": "CSM Changelog Writter CI Workflow",
+    "description": "On each release, will auto-generate CHANGELOG description for each given package",
+    "iconName": "octicon log",
+    "categories": [
+        "CI", "Release Notes", "CHANGELOG"
+    ]
+}
